@@ -1,8 +1,8 @@
-version: 1.9.6
+version: 1.10.0
 files:
-  - url: Rhinoceros Nutrition Setup 1.9.6.exe
-    sha512: Rq1b+ZtrX1IAn5YTwLeHwlem2F1Y0XO+YT0YOh8ROLbCgL2YZ90IMfdfu0JIeiulzUwypjtM5MmaBg3LfvXmCQ==
-    size: 101862362
-path: Rhinoceros Nutrition Setup 1.9.6.exe
-sha512: Rq1b+ZtrX1IAn5YTwLeHwlem2F1Y0XO+YT0YOh8ROLbCgL2YZ90IMfdfu0JIeiulzUwypjtM5MmaBg3LfvXmCQ==
-releaseDate: '2026-09-01T13:29:54.002Z'
+  - url: Rhinoceros Nutrition Setup 1.10.0.exe
+    sha512: 0eZzXjxt+W+Ux/XPDbE0WYuIknj3IUKRUk1Bs3B/HDVL4Gwt+Qu4RBkl1FUP30Bwcr4uOlk442x/3tvXJtcZ6w==
+    size: 101882160
+path: Rhinoceros Nutrition Setup 1.10.0.exe
+sha512: 0eZzXjxt+W+Ux/XPDbE0WYuIknj3IUKRUk1Bs3B/HDVL4Gwt+Qu4RBkl1FUP30Bwcr4uOlk442x/3tvXJtcZ6w==
+releaseDate: '2026-09-08T17:47:43.432Z'
